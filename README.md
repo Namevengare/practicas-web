@@ -24,6 +24,7 @@ Este sistema permite la gestión automatizada de hojas de vida estudiantiles y s
 2. Instalar dependencias:
    ```bash
    npm install
+   yarn add react-router-dom react-redux @reduxjs/toolkit axios @mui/material @emotion/react @emotion/styled @mui/icons-material
    ```
 3. Configurar variables de entorno:
    ```bash
